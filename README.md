@@ -24,14 +24,16 @@ I'm an AI engineer and computational researcher specializing in **Deep Learning*
   Pre-trained Transformer via Masked Language Modeling on scRNA-seq expression matrices. Achieved a **+35% accuracy gain** on rare cell-type classification.
 - **[Geometric Drug Discovery (EGNN)](https://github.com/aravmendiratta/Geometric_Drug_Discovery)**
   E(3) Equivariant Graph Neural Network for predicting protein-ligand binding affinities. Enforced strict 3D geometric equivariance directly from `.pdb` files.
+- **[SSSL-HAR Activity Recognition](https://github.com/aravmendiratta/SSSL_HAR)**
+  Engineering reproduction of Synthetic Self-Supervised Learning for wearable sensors. Achieved **88.15% zero-shot accuracy** via contrastive pre-training.
 
 #### ⚙️ Enterprise AI & Production Systems
 - **[Clinical Intelligence Platform](https://github.com/aravmendiratta/clinical-intelligence-platform)**
   Production RAG platform querying unstructured clinical documents with real-time SSE streaming. Slashed LLM hallucinations by **>85%** across 50,000+ medical records.
-- **[Market Data Platform](https://github.com/aravmendiratta/market_data_platform)**
-  High-throughput streaming system for real-time Level-2 order book reconstruction via Kafka and Redpanda. Sustained **>25,000 msg/s**.
-- **[AUDI GenAI Image Platform](#)**
-  Enterprise Generative AI image creation platform accelerating visual design prototyping via AWS CDK and Docker, delivering a **40% efficiency boost**.
+- **[Market Data Platform](https://github.com/aravmendiratta/Market-Data-Operations-Project-)**
+  High-throughput distributed streaming system for real-time Level-2 order book reconstruction via Kafka and Redpanda. Sustained **>25,000 msg/s**.
+- **[Cloud FX Analytics Engine](https://github.com/aravmendiratta/cloud-based-foreign-exchange-analytics)**
+  Cloud-based data lakehouse processing **10M+ tick records** with PySpark and Databricks. Engineered rolling VWAP analytics and compliance auditing.
 
 ---
 
